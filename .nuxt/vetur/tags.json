@@ -1,0 +1,32 @@
+{
+  "Contactar": {
+    "description": "Auto imported from components/Contactar.vue"
+  },
+  "LazyContactar": {
+    "description": "Auto imported from components/Contactar.vue"
+  },
+  "FooterNav": {
+    "description": "Auto imported from components/FooterNav.vue"
+  },
+  "LazyFooterNav": {
+    "description": "Auto imported from components/FooterNav.vue"
+  },
+  "MainNav": {
+    "description": "Auto imported from components/MainNav.vue"
+  },
+  "LazyMainNav": {
+    "description": "Auto imported from components/MainNav.vue"
+  },
+  "Trabajar": {
+    "description": "Auto imported from components/Trabajar.vue"
+  },
+  "LazyTrabajar": {
+    "description": "Auto imported from components/Trabajar.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "LazyVuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}

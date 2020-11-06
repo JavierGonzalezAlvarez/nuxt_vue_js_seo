@@ -1,0 +1,23 @@
+[
+  {
+    "name": "contactar",
+    "path": "/contactar",
+    "component": "/home/javier/Escritorio/Proyectos/js/vue/vue_nuxtjs_seo/nuxt_vue_js_seo/pages/contactar.vue",
+    "chunkName": "pages/contactar",
+    "_name": "_2c350ba0"
+  },
+  {
+    "name": "empresa",
+    "path": "/empresa",
+    "component": "/home/javier/Escritorio/Proyectos/js/vue/vue_nuxtjs_seo/nuxt_vue_js_seo/pages/empresa.vue",
+    "chunkName": "pages/empresa",
+    "_name": "_b56707b0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/javier/Escritorio/Proyectos/js/vue/vue_nuxtjs_seo/nuxt_vue_js_seo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1dbe649e"
+  }
+]
