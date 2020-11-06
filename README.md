@@ -21,6 +21,10 @@ instalar npm y node
 ----------------------------------------
 sudo apt install nodejs npm
 
+crear proyecto
+-----------------------------------
+npm init nuxt-app nuxt_vue_js_seo
+
 en desarrollo
 -------------------------------
 sudo npm run dev

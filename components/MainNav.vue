@@ -27,7 +27,6 @@
         </v-btn>
         <v-btn
           color="teal accent-4"
-          flat
         >
           <h2 class="subheading font-weight-regular">
             Nuxt - Vue - Vuetify

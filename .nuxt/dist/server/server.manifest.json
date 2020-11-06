@@ -1,0 +1,15 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/contactar.js": "pages/contactar.js",
+    "pages/empresa.js": "pages/empresa.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/contactar.js": "pages/contactar.js.map",
+    "pages/empresa.js": "pages/empresa.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

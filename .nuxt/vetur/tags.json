@@ -16,17 +16,5 @@
   },
   "LazyMainNav": {
     "description": "Auto imported from components/MainNav.vue"
-  },
-  "Trabajar": {
-    "description": "Auto imported from components/Trabajar.vue"
-  },
-  "LazyTrabajar": {
-    "description": "Auto imported from components/Trabajar.vue"
-  },
-  "VuetifyLogo": {
-    "description": "Auto imported from components/VuetifyLogo.vue"
-  },
-  "LazyVuetifyLogo": {
-    "description": "Auto imported from components/VuetifyLogo.vue"
   }
 }
