@@ -44,5 +44,18 @@ en nuxt.config.js por defecto al hacer => sudo npm run start escucha en http://l
     // timing: false
   }
 
-
+SEO - nuxt.config.js
+---------------------------------------------------
+head: {
+    titleTemplate: '%s - nuxt_vue_js_seo',
+    title: 'nuxt_vue_js_seo',
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { hid: 'description', name: 'description', content: '' }
+    ],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ]
+  },
 

@@ -1,6 +1,7 @@
 <template>
   <div>
-    <v-card>
+    <v-card
+    color="primary">
         <v-card-title>
            <span class="headline">
                Por favor, rellena el siguiente formulario ....
